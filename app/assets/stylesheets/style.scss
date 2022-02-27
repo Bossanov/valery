@@ -1,0 +1,48 @@
+@import 'variables';
+
+@import 'mixins.scss';
+
+@import 'media-query.scss';
+
+@import 'typography';
+
+@import 'common.scss'; 
+
+
+// Header Style
+@import 'header.scss';
+// Navigation Menu
+@import 'navigation.scss';
+@import 'backgrounds.scss';
+// Banner Style
+@import 'slider.scss';
+// About Section
+@import 'about.scss';
+// Feature Section
+@import 'feature.scss';
+// Counter Section
+@import 'counter.scss';
+// Doctors section
+@import 'team.scss';
+// Service section
+@import 'service.scss';
+// Department section
+@import 'department.scss';
+// Call to action section
+@import 'cta.scss';
+// Testimonial Section
+@import 'review.scss';
+// Contact Section
+@import 'contact.scss';
+// Blog Posts
+@import 'blog.scss';
+// Single Blog posts
+@import 'single-post.scss';
+// Blog Sidebar
+@import 'blog-sidebar.scss';
+// Footer
+@import 'footer.scss';
+
+
+
+
