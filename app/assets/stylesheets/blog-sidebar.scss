@@ -55,7 +55,7 @@ $grad-color:linear-gradient(to bottom,#05a5f9,#10dab7);
         margin-bottom: 10px;
         a {
           color: $black;
-          @include transition (all, 0.3s, ease);
+
           &:hover {
             color:$primary-color;
             padding-left: 5px;
