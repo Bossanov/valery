@@ -121,38 +121,4 @@ $grad-color:linear-gradient(to bottom,#05a5f9,#10dab7);
 }
 
 
-@include mobile{
-	.doctors{
-		.btn-group{
-			display: block;
-			.btn{
-				margin: 8px 3px;
-			}
-		}
-		
-	}
-}
 
-@include mobile-xs{
-	.doctors{
-		.btn-group{
-			display: block;
-			.btn{
-				margin: 8px 3px;
-			}
-		}
-		
-	}
-}
-
-@include tablet{
-	.doctors{
-		.btn-group{
-			display: block;
-			.btn{
-				margin: 8px 3px;
-			}
-		}
-		
-	}
-}

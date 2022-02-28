@@ -228,15 +228,7 @@ $grad-color:linear-gradient(to bottom,#05a5f9,#10dab7);
 // // Responsive
 
 
-// @include mobile{
-//   #navbar{
-//     background: $light;
-//   } 
-//   #navbar.nav-text-white{
-//     .nav-link{
-//       color: $black;
-//     }
-//   }
+
 
 //   #navbar.nav-text-white .mobile-logo{
 //       display: block;
@@ -266,15 +258,7 @@ $grad-color:linear-gradient(to bottom,#05a5f9,#10dab7);
 // }
 
 
-// @include mobile-xs{
-//   #navbar{
-//     background: $light;
-//   }
-//   #navbar.nav-text-white{
-//     .nav-link{
-//       color: $black;
-//     }
-//   }
+
 
 //    #navbar.nav-text-white .mobile-logo{
 //       display: block;
@@ -299,17 +283,7 @@ $grad-color:linear-gradient(to bottom,#05a5f9,#10dab7);
 // }
 
 
-// @include tablet{
-//   #navbar{
-//     background: $light;
-//   }
-//   #navbar.nav-text-white{
-//     .nav-link{
-//       color: $black;
-//     }
-//   }
 
-  
 //   .navbar-toggler {
 //       color: $black;
 //   }
@@ -334,15 +308,7 @@ $grad-color:linear-gradient(to bottom,#05a5f9,#10dab7);
 
 
 
-// @include desktop{
-//   #navbar{
-//     background: $light;
-//   }
-//    #navbar.nav-text-white{
-//     .nav-link{
-//       color: $black;
-//     }
-//   }
+
 
 
 //   #navbar.nav-text-white .mobile-logo{

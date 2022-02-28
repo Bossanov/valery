@@ -320,12 +320,7 @@ a:focus {
 }
 
 
-@include mobile{
-   h2, .h2 {
-      font-size: 1.3rem;
-      line-height: 36px;
-  }
-}
+
 
 .title-color{
   color: $title-color;
@@ -352,13 +347,4 @@ a:focus {
   background:#f4f9fc;
 }
 
-@include mobile{
-  .text-lg{
-    font-size: 28px;
-  }
-}
-@include mobile-xs{
-  .text-lg{
-    font-size: 28px;
-  }
-}
+

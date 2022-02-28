@@ -106,36 +106,3 @@ $grad-color:linear-gradient(to bottom,#05a5f9,#10dab7);
 
 
 
-@include mobile{
-	.testimonial-wrap{
-		margin-left: 0px;
-	}
-
-	.testimonial::before{
-		display: none;
-	}
-}
-@include mobile-xs{
-	.testimonial-wrap{
-		margin-left: 0px;
-	}
-	.testimonial::before{
-		display: none;
-	}
-}
-@include tablet{
-	.testimonial-wrap{
-		margin-left: 0px;
-	}
-	.testimonial::before{
-		display: none;
-	}
-}
-@include desktop{
-	.testimonial-wrap{
-		margin-left: 0px;
-	}
-	.testimonial::before{
-		display: none;
-	}
-}
